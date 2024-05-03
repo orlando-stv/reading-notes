@@ -1,19 +1,19 @@
-# **MENTALIDAD DE CRECIMIENTO**
+ # **MENTALIDAD DE CRECIMIENTO**
 - Nos abrimos caminos hacia una mayor creatividad y posibilidades.
 
-## **CONCEPTO**
+### **CONCEPTO**
 - Una mentalidad de crecimiento es sinónimo de amor por aprender
 
-## **MANTENER UNA MENTALIDAD DE CRECIMIENTO**
+### **MANTENER UNA MENTALIDAD DE CRECIMIENTO**
 
-- **DESAFIO**
+1. **DESAFIO**
   aprender cada dia mas
 
-- **OBSTACULO**
+2. **OBSTACULO**
   perseverar
 
-- **ESFUERZO**
+3. **ESFUERZO**
   mantenerse
 
-(https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[MENTALIDAD DE CRECIMIENTO](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
