@@ -1,2 +1,3 @@
 # reading-notes
-Mi primer repositorio
+Soy Orlando Stevens V. F.
+Este es mi primer repositorio con Enter Tech School...
