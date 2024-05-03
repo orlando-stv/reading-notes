@@ -1,4 +1,4 @@
- # **MENTALIDAD DE CRECIMIENTO**
+# **MENTALIDAD DE CRECIMIENTO**
 - Nos abrimos caminos hacia una mayor creatividad y posibilidades.
 
 ### **CONCEPTO**
