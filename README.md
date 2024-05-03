@@ -6,13 +6,13 @@
 
 ### **MANTENER UNA MENTALIDAD DE CRECIMIENTO**
 
-1. **DESAFIO**
+1. **DESAFIO** :100:
   aprender cada dia mas
 
-2. **OBSTACULO**
+2. **OBSTACULO** :running:
   perseverar
 
-3. **ESFUERZO**
+3. **ESFUERZO** :muscle:
   mantenerse
 
 [MENTALIDAD DE CRECIMIENTO](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
