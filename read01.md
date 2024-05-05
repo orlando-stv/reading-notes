@@ -29,6 +29,6 @@ Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link e
 ## 6. **¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?**
 Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
 
-[MI PRIMER MARKDOWN](https://orlando-stv.github.io/reading-notes/)
+
 
 #### _MUCHAS GRACIAS_
