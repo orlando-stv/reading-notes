@@ -17,3 +17,5 @@
 
 [MENTALIDAD DE CRECIMIENTO](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
+![MENTALIDAD DE PERSEVERANCIA](https://revista.adventista.es/wp-content/uploads/sites/2/2022/07/perseverancia.jpg)
+
