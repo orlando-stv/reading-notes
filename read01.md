@@ -1,4 +1,4 @@
-# UNA HERRAMIENTA SENCILA Y UTIL: MARKDOWN
+# UNA HERRAMIENTA SENCILLA Y UTIL: MARKDOWN
 
 ## 1. **¿Qué es Markdown?**
 
@@ -12,10 +12,10 @@ Por la simplicidad de su sintaxis.
 
 Las almohadillas: #
 
->> ### **¿Cuántos necesitas para crear el título más grande?**
+> ### **¿Cuántos necesitas para crear el título más grande?**
 - Solo una almohadilla
 
->> ### **¿Cuántos necesitas para crear el título más pequeño?**
+> ### **¿Cuántos necesitas para crear el título más pequeño?**
 - Se necesita 6 almohadillas
 
 ## 4. **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
