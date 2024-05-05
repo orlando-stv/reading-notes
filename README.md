@@ -19,3 +19,19 @@
 
 ![MENTALIDAD DE PERSEVERANCIA](https://revista.adventista.es/wp-content/uploads/sites/2/2022/07/perseverancia.jpg)
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+</details>
+
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
