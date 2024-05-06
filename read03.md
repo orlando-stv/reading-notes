@@ -19,7 +19,7 @@
 ## **3. ¿Cuál es el comando para rastrear y preparar archivos?**
   - Comando para rastrear:
       + Seguimiento de un archivo:   *git add filename*
-      + Seguimiento de todos los archivos:   _git agregar *_
+      + Seguimiento de todos los archivos:   _git add *_
    
   - Comando para preparar:
   
