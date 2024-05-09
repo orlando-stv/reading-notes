@@ -13,5 +13,5 @@
   3. El elemento.
 
 ## ¿Cómo se llama cuando le das información extra a un elemento?
-
+  Atributo
 ## ¿Qué es un elemento semántico?
