@@ -1,17 +1,17 @@
 # FORMANDOME COMO UN PROGRAMADOR DEVELOPER FULL STACK
 
-  ## INTRODUCCION:
+## INTRODUCCION:
   
   A mis 36 años estoy empezando a estudiar programacion, un sueño de toda la vida.
   *muchos por leer y estudiar*
 
-  ## DESCRIPCION:
+## DESCRIPCION:
 
   Esta pagina se alimentara de todos mis avences diarios de estudio de programacion en **BOOTCAMP: Enter School**
 
-  ## CONTENIDOS:
+## CONTENIDOS:
       
-  ### NOTAS DE LECTURA CODIGO 102
+### NOTAS DE LECTURA CODIGO 102
       
   1. [README01](https://orlando-stv.github.io/reading-notes/notas102/readme01.html)
   2. [README02](https://orlando-stv.github.io/reading-notes/notas102/readme02.html)
@@ -22,7 +22,7 @@
   7. [README07](https://orlando-stv.github.io/reading-notes/notas102/readme07.html)
   8. [README08](https://orlando-stv.github.io/reading-notes/notas102/readme08.html)
 
-  ### NOTAS DE LECTURA CODIGO 201
+### NOTAS DE LECTURA CODIGO 201
   - [README01](https://orlando-stv.github.io/reading-notes/notas201/readme01.html)
   - [README02](https://orlando-stv.github.io/reading-notes/notas201/readme02.html)
   - [README03](https://orlando-stv.github.io/reading-notes/notas201/readme03.html)
