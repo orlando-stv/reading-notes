@@ -10,7 +10,7 @@
         2. CSS interno
         3. CSS en línea
 
-## Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>
+## Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "P"
 
     p{
         color: #ff0000;
