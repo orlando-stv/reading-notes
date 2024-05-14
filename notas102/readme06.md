@@ -12,4 +12,4 @@ Asignas a una variable con _"var" o "let" para posteriormente asignarles un valo
 
 ## ¿Cómo se llama la información recibida del usuario?
 
-valor
++ entrada de usuario (client side).
