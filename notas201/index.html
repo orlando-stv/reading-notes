@@ -4,41 +4,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Class 1 Lab.</title>
     <style>
         h1 {
-            color: blueviolet;
-            background-color: aquamarine;
+            text-align: center;
+            color: rgb(164, 158, 169);
+            background-color: rgb(29, 14, 14);
+            width: 300px;
+        }
+        body {
+            position: fixed;
+            background-image: url(planeta.jpg); 
+        }
+        p {
+            width: 300px;
+            height: 26px;
+            text-align: center;
+            font-family: sans-serif;
+            font-size: 14px;
+            border: 1px solid white;
         }
     </style>
+    <script>
+        
+        let nombre = prompt("¿Cual es tu nombre?");
+        alert("mucho gusto: " + nombre);
+        let edad = prompt("¿Que edad tienes?");
+        alert("tengo " + edad + " años de edad");
+        let donde_vives = prompt("¿Donde vives?");
+        alert("vivo en : " + donde_vives);
+        let deporte = prompt("¿Deporte favorito?");
+        alert("me gusta mucho el : " + deporte);
+        // juntamos las respuestas (concatenar).
+        let mensaje = "hola, mi nombre es: " + nombre + ", tengo " + edad + " años de edad, vivo en " + donde_vives + " y mi deporte favorito es " + deporte;
+        alert(mensaje);
+        console.log("esta es la 1er pregunta: ", typeof(nombre) + " " +nombre);
+        console.log("esta es la 2da pregunta: ", typeof(edad) + " " + edad);
+        console.log("esta es la 3era pregunta: ", typeof(donde_vives) + " " + donde_vives);
+        console.log("esta es la 4ta pregunta: ", typeof(deporte) + " " + deporte);
+        
+    </script>
 </head>
-
 <body>
     <header></header>
     <main>
-
         <h1>Class 1 Lab</h1>
-        <p style="color: blue; background-color: brown;">¿De que industria vienes?</p>
-        <p style="color: rgb(255, 21, 0); background-color: rgb(231, 12, 12);">¿Quien eres? (Apodo/pronombres)</p>
-        <p style="color: rgb(255, 221, 0); background-color: rgb(48, 2, 2);">¿Que empresa de tecnologia te gusta?</p>
-        <p style="color: rgb(4, 0, 0); background-color: rgb(27, 131, 143);">¿Un hecho divertido y/o geek?</p>
-
+        <p style="color: rgb(236, 236, 236); background-color: rgb(97, 56, 56);">¿Cual es tu nombre: ?</p>
+        <p style="color: rgb(255, 21, 0); background-color: rgb(32, 15, 15);">¿Que edad tienes?</p>
+        <p style="color: rgb(255, 221, 0); background-color: rgb(117, 83, 83);">¿Donde vives?</p>
+        <p style="color: rgb(242, 248, 242); background-color: rgb(0, 9, 10);">¿Deporte favorito?</p>
     </main>
     <footer></footer>
-
-    <script>
-        let pregunta1 = prompt("¿Quien eres?");
-        let pregunta2 = prompt("¿De que industria vienes?");
-        let pregunta3 = prompt("¿Que empresa de tecnologia te gusta?");
-        let pregunta4 = prompt("Un hecho divertido y/o geek");
-        // juntamos las respuestas (concatenar).
-        let mensaje = "hola, " + pregunta1 + " " + pregunta2 + " " + pregunta3 + " " + pregunta4;
-        alert (mensaje);
-        console.log("esta es la 1er pregunta", pregunta1);
-        console.log("esta es la 2da pregunta", pregunta2);
-        console.log("esta es la 3era pregunta", pregunta3);
-        console.log("esta es la 4ta pregunta", pregunta4);
-    </script>
 </body>
-
 </html>
